@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fernandocbhorta
-- 👀 I’m interested in Motorsports, Hard Rock and photography
+- 👀 I’m interested in 🏎️ Motorsports, 🎸 Hard Rock and 📸 photography
+- 🎮 One of my hobbies is to have my things organized for quick access. I've setup a [small, personal website](https://horta.classicgames.com.br) with a list of my gaming videos, diecast collection and SimRacing results
 - 🌱 I’m currently learning React and React-Native, Next / Node.js, Java, Oracle SQL, past classes of Python, C#, HTML/CSS/JS, previous experience with PHP, MySQL
 - 💞️ I’m looking to collaborate on ideas that will make life better
 - 📫 How to reach me: email, letter, phone call, WhatsApp.
