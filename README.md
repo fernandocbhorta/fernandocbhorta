@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fernandocbhorta
 - 👀 I’m interested in 🏎️ Motorsports, 🎸 Hard Rock and 📸 photography
-- 🎮 One of my hobbies is to have my things organized for quick access. I've setup a [small, personal website](https://horta.classicgames.com.br) with a list of my gaming videos, diecast collection and SimRacing results
-- 🌱 I’m currently learning React and React-Native, Next / Node.js, Java, Oracle SQL, past classes of Python, C#, HTML/CSS/JS, previous experience with PHP, MySQL
-- 💞️ I’m looking to collaborate on ideas that will make life better
+- 🎮 One of my hobbies is to have my things organized for quick access. I've setup a [small, personal website](https://horta.classicgames.com.br) with a list of my gaming videos, diecast collection and SimRacing results, turned into portfolio later
+- 🌱 I’m currently exploring React and React-Native, Next / Node.js, Java, Oracle SQL, Python, C#, HTML/CSS/JS, PHP, MySQL
+- 💞️ I’ve been working primarily from another, private Github account professionally in a stack that include PostgreSQL, Python (with Django), Golang, React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandocbhorta/), email, letter, phone call, WhatsApp.
 - 😄 Pronouns: He/Him. May call me Sir, m'lord, or just Fernando. Up to you.
 - ⚡ Fun fact: back in 1997, aged 12, I setup my first website on GeoCities and worked on translating a fully compiled game .exe file using HexEditor. Then I gave up the idea of ever working with IT, only to make a U turn on my career 25 years later and started a Software Development college course in 2023.
