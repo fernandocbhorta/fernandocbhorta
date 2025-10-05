@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandocbhorta
 - 👀 I’m interested in 🏎️ Motorsports, 🎸 Hard Rock and 📸 photography
-- 🎮 One of my hobbies is to have my things organized for quick access. I've setup a [small, personal website](https://horta.classicgames.com.br) with a list of my gaming videos, diecast collection and SimRacing results, turned into portfolio later
+- 🎮 One of my hobbies is to have my things organized for quick access. I've setup a [small, personal website](https://horta.dev.br) with a list of my projects, including websites I worked on, gaming videos, diecast collection and SimRacing results
 - 🌱 I’m currently exploring React and React-Native, Next / Node.js, Java, Oracle SQL, Python, C#, HTML/CSS/JS, PHP, MySQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fernandocbhorta/), email, letter, phone call, WhatsApp.
 - 😄 Pronouns: He/Him. May call me Sir, m'lord, or just Fernando. Up to you.
