@@ -8,3 +8,4 @@
 
 ## Quick notes
 ### From 2025-05-26 I’ve been working primarily from another, private Github account for work, leaving little to no time for personal projects here. Will try to get some action back around 2025-10
+### Due to the NDAs and personal data protection, most real-world projects I work with won't be available here
