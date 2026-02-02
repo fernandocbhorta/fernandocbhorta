@@ -7,5 +7,5 @@
 - ⚡ Fun fact: back in 1997, aged 12, I setup my first website on GeoCities and worked on translating a fully compiled game .exe file using HexEditor. Then I gave up the idea of ever working with IT, only to make a U turn on my career 25 years later and started a Software Development college course in 2023.
 
 ## Quick notes
-From 2025-05-26 I’ve been working primarily from another, private Github account for work, leaving little to no time for personal projects here. Will try to get some action back around 2025-10
-Due to the NDAs and personal data protection, most real-world projects I work with won't be available here
+From 2025-05-26 I’ve been working primarily from another, private Github account for work, leaving little to no time for personal projects here. 
+Around 2025-10 I got back, but due to the NDAs and personal data protection, most real-world projects I work with won't be available here after 2026-01.
